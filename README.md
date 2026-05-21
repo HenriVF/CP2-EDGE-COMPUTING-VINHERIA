@@ -39,12 +39,11 @@ Projeto de sistema embarcado em Arduino para monitoramento climático automatiza
 ---
 
 ## 🔗 Links do Projeto
-* **Simulador (Wokwi / Tinkercad):** [INSIRA_O_LINK_AQUI]
+* **Simulador (Wokwi / Tinkercad):** https://wokwi.com/projects/464585768497339393
 * **Vídeo Explicativo (Pitch 3 min):** [INSIRA_O_LINK_AQUI]
 
 ## 👥 Integrantes
-* Nome do Aluno 1 - RMXXXXX
-* Nome do Aluno 2 - RMXXXXX
+* Henrique Vieira Ferreira  - RM569586
+* Leonardo Gracioli Barrocal - RM571031
 
----
-_Copyright © 2026 FIAP - Engenharia de Software_
+
