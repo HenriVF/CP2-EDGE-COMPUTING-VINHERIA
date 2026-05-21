@@ -1,4 +1,4 @@
-# Monitoramento Ambiental - Vinheria Agnello 1ESPW 🍷
+# Monitoramento Ambiental - Vinheria Agnello 🍷
 
 Projeto de sistema embarcado em Arduino para monitoramento climático automatizado do depósito de vinhos da Vinheria Agnello, garantindo a qualidade do produto contra variações de luz, temperatura e umidade.
 
@@ -40,7 +40,8 @@ Projeto de sistema embarcado em Arduino para monitoramento climático automatiza
 
 ## 🔗 Links do Projeto
 * **Simulador (Wokwi / Tinkercad):** https://wokwi.com/projects/464585768497339393
-* **Vídeo Explicativo (Pitch 3 min):** [INSIRA_O_LINK_AQUI]
+* * **Simulação em Video:** https://youtu.be/3f_ntoK0khY
+* **Vídeo Explicativo (Pitch 3 min):** https://youtu.be/D9PvItUKeuA
 
 ## 👥 Integrantes
 * Henrique Vieira Ferreira  - RM569586
