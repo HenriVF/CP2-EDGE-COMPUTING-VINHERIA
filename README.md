@@ -6,8 +6,8 @@ Projeto de sistema embarcado em Arduino para monitoramento climático automatiza
 * **Arduino UNO**
 * **Sensor DHT22 / DHT11** -> Pino Digital `10`
 * **Sensor LDR (Luminosidade)** -> Pino Analógico `A0`
-* **Display LCD 16x2 I2C** -> Pinos `A4` (SDA) e `A5` (SCL)
-* **Buzzer Piezoelétrico** -> Pino Digital `4`
+* **Display LCD 16x2** -> Pinos `A4` (SDA) e `A5` (SCL)
+* **Buzzer** -> Pino Digital `4`
 * **LED Verde** (Ambiente OK / Escuro) -> Pino Digital `13`
 * **LED Amarelo** (Alerta / Meia Luz / Temp Fora) -> Pino Digital `12`
 * **LED Vermelho** (Perigo / Muito Claro / Umid Fora) -> Pino Digital `11`
@@ -31,7 +31,7 @@ Projeto de sistema embarcado em Arduino para monitoramento climático automatiza
 
 ---
 
-## 💻 Diferenciais da Implementation
+## 💻 Diferenciais da Implementação 
 * **Média de 5 Leituras:** Coleta e calcula a média aritmética de 5 amostras antes de atualizar os dados.
 * **Tempo Não-Bloqueante (`millis()`):** Atualização precisa e sem travamentos a cada 5 segundos.
 * **Display em Carrossel:** Alterna as telas de exibição automaticamente para melhor legibilidade.
