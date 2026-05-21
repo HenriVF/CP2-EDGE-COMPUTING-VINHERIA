@@ -4,13 +4,13 @@ Projeto de sistema embarcado em Arduino para monitoramento climático automatiza
 
 ## 🛠️ Componentes e Pinout
 * **Arduino UNO**
-* **Sensor DHT22 / DHT11** -> Pino Digital `10`
-* **Sensor LDR (Luminosidade)** -> Pino Analógico `A0`
+* **Sensor DHT22 / DHT11** -> Pino `10`
+* **Sensor LDR (Luminosidade)** -> Pino `A0`
 * **Display LCD 16x2** -> Pinos `A4` (SDA) e `A5` (SCL)
 * **Buzzer** -> Pino Digital `4`
-* **LED Verde** (Ambiente OK / Escuro) -> Pino Digital `13`
-* **LED Amarelo** (Alerta / Meia Luz / Temp Fora) -> Pino Digital `12`
-* **LED Vermelho** (Perigo / Muito Claro / Umid Fora) -> Pino Digital `11`
+* **LED Verde** (Ambiente OK / Escuro) -> Pino  `13`
+* **LED Amarelo** (Alerta / Meia Luz / Temp Fora) -> Pino  `12`
+* **LED Vermelho** (Perigo / Muito Claro / Umid Fora) -> Pino  `11`
 
 ---
 
