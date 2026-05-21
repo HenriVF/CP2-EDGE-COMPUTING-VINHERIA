@@ -40,7 +40,7 @@ Projeto de sistema embarcado em Arduino para monitoramento climático automatiza
 
 ## 🔗 Links do Projeto
 * **Simulador (Wokwi / Tinkercad):** https://wokwi.com/projects/464585768497339393
-* * **Simulação em Video:** https://youtu.be/3f_ntoK0khY
+* **Simulação em Video:** https://youtu.be/3f_ntoK0khY
 * **Vídeo Explicativo (Pitch 3 min):** https://youtu.be/D9PvItUKeuA
 
 ## 👥 Integrantes
